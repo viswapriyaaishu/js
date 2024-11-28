@@ -1,0 +1,57 @@
+*{
+background-color:#212121;
+margin:0px;
+padding:0px;
+box-sizing:border-box;
+}
+#a1
+{
+    color:white;
+    font-weight:bold;
+    font-size:32px;
+    text-align:center;
+    padding-top:8px;
+}
+#a2
+{
+    text-align:center;
+    color:white;
+    padding-top:4px;
+}
+h1{
+    color:white;
+    text-align:center;
+    font-size:40px;
+}
+form{
+    margin-top:5vh;
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+input[type="text"]{
+    color:black;
+    background-color: white;
+}
+input[type="submit"]
+{
+    color:black;
+    background-color:white;
+    margin-top:3vh;
+}
+.guessingfield
+{
+    display:flex;
+    flex-direction:column;
+    color:white;
+    justify-content: center;
+    align-items: center;
+    margin-top:8vh;
+}
+.wrap
+{
+    text-align:center;
+}
